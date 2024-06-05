@@ -190,3 +190,9 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
   50% {scale: 1 0.95;}
 }
 
+
+.insignias {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
